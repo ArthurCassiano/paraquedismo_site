@@ -30,7 +30,7 @@ img_salto_duplo = Image.open("images/salto_duplo.png")
 
 # ---- HEADER SECTION ----
 with st.container():
-    st.subheader("Paraquedismo :parachute:")
+    st.subheader("Paraquedismo 🪂")
     st.title("Um esporte radical e seguro")
     st.write(
         "O paraquedismo, ao contrário do que muitos pensam é um esporte seguro."
